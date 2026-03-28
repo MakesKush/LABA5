@@ -119,7 +119,7 @@
 
 #### Общая галерея эталонов
 
-![](results/00_alphabet_gallery.png)
+![](lab5_variant11_ugaritic/results/00_alphabet_gallery.png)
 
 #### Сводные наблюдения
 
@@ -143,15 +143,15 @@
 
 Эталонное изображение:
 
-![](results/01_u10380/00_symbol.png)
+![](lab5_variant11_ugaritic/results/01_u10380/00_symbol.png)
 
 Профиль `X`:
 
-![](results/01_u10380/01_profile_x.png)
+![](lab5_variant11_ugaritic/results/01_u10380/01_profile_x.png)
 
 Профиль `Y`:
 
-![](results/01_u10380/02_profile_y.png)
+![](lab5_variant11_ugaritic/results/01_u10380/02_profile_y.png)
 
 * Код: `U+10380`
 * Название: `Alpa`
@@ -164,15 +164,15 @@
 
 Эталонное изображение:
 
-![](results/15_u1038e/00_symbol.png)
+![](lab5_variant11_ugaritic/results/15_u1038e/00_symbol.png)
 
 Профиль `X`:
 
-![](results/15_u1038e/01_profile_x.png)
+![](lab5_variant11_ugaritic/results/15_u1038e/01_profile_x.png)
 
 Профиль `Y`:
 
-![](results/15_u1038e/02_profile_y.png)
+![](lab5_variant11_ugaritic/results/15_u1038e/02_profile_y.png)
 
 * Код: `U+1038E`
 * Название: `Mem`
@@ -185,15 +185,15 @@
 
 Эталонное изображение:
 
-![](results/28_u1039b/00_symbol.png)
+![](lab5_variant11_ugaritic/results/28_u1039b/00_symbol.png)
 
 Профиль `X`:
 
-![](results/28_u1039b/01_profile_x.png)
+![](lab5_variant11_ugaritic/results/28_u1039b/01_profile_x.png)
 
 Профиль `Y`:
 
-![](results/28_u1039b/02_profile_y.png)
+![](lab5_variant11_ugaritic/results/28_u1039b/02_profile_y.png)
 
 * Код: `U+1039B`
 * Название: `I`
